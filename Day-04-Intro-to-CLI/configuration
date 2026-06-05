@@ -1,0 +1,23 @@
+--------------------Router 1 Configurations ----------------
+
+interface GigabitEthernet0/0
+ description ##to SW1 ##
+ ip address 15.255.255.254 255.0.0.0
+ duplex auto
+ speed auto
+!
+interface GigabitEthernet0/1
+ description ##to SW2 ##
+ ip address 182.98.255.254 255.255.0.0
+ duplex auto
+ speed auto
+!
+interface GigabitEthernet0/2
+ description ## to SW3 ##
+ no ip address
+ duplex auto
+ speed auto
+!
+interface Vlan1
+ no ip address
+ shutdown
