@@ -1,3 +1,75 @@
+---------------------Setting security for the Router -------------------------
+
+Router#conf
+Router#configure t
+Router#configure terminal
+Router#en pass CCNA
+Router#exit
+Router>write
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router>
+Router>en
+Password: 
+Router#
+Router#
+Router#configure t
+Router#configure terminal 
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router(config)#ser
+Router(config)#service pas
+Router(config)#service password-encryption 
+Router(config)#enable se
+Router(config)#enable secret CISCO
+Router(config)#enable secret CISCO
+Router(config)#
+Router(config)#do sh run
+Building configuration...
+
+Current configuration : 771 bytes
+!
+version 15.1
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+service password-encryption
+!
+hostname Router
+!
+!
+!
+enable secret 5 $1$mERr$NJdjwh5wX8Ia/X8aC4RIu.
+enable password 7 08026F6028
+!
+!
+!
+
+Router(config)#
+Router(config)#wri
+Router(config)#do w
+Router(config)#do write
+Building configuration...
+[OK]
+Router(config)#
+Router(config)#do show startup-conf
+Router(config)#do show startup-conf
+Using 771 bytes
+!
+version 15.1
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+service password-encryption
+!
+hostname Router
+!
+!
+!
+enable secret 5 $1$mERr$NJdjwh5wX8Ia/X8aC4RIu.
+enable password 7 08026F6028
+!
+!
+!
+!
+!
+
 --------------------Router 1 Configurations ----------------
 
 interface GigabitEthernet0/0
