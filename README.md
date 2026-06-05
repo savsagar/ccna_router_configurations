@@ -20,11 +20,11 @@ My CCNA study journey following **Jeremy's IT Lab** free course on YouTube.
 | Day 04 | Intro to the CLI | ✅ Done |
 | Day 05 | Ethernet LAN Switching Part 1 | ✅ Done |
 | Day 06 | Ethernet LAN Switching Part 2 | ✅ Done |
-| Day 07 | IPv4 Addressing Part 1 | ✅ Done |
-| Day 08 | IPv4 Addressing Part 2 | ✅ Done |
-| Day 09 | Switch Interfaces | 🔲 Pending |
-| Day 10 | IPv4 Header | 🔲 Pending |
-| Day 11 | Routing Fundamentals | 🔲 Pending |
+| Day 07 | Switch Interfaces | ✅ Done |
+| Day 08 | IPv4 Header | ✅ Done |
+| Day 09 | Routing Fundamentals | 🔲 Pending |
+| Day 10 | IPv4 Addressing Part 1 | 🔲 Pending |
+| Day 11 | IPv4 Addressing Part 2 | 🔲 Pending |
 | Day 12 | Life of a Packet | 🔲 Pending |
 | Day 13 | Subnetting Part 1 | 🔲 Pending |
 | Day 14 | Subnetting Part 2 | 🔲 Pending |
