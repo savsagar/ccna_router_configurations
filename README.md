@@ -22,16 +22,16 @@ My CCNA study journey following **Jeremy's IT Lab** free course on YouTube.
 | Day 06 | Ethernet LAN Switching Part 2 | ✅ Done |
 | Day 07 | IPv4 Addressing Part 1 | ✅ Done |
 | Day 08 | IPv4 Addressing Part 2 | ✅ Done |
-| Day 09 | Switch Interfaces | 🔲 Pending |
+| Day 09 | Switch Interfaces | ✅ Done |
 | Day 10 | IPv4 Header | ✅ Done |
 | Day 11 | Routing Fundamentals | ✅ Done |
 | Day 12 | Life of a Packet | ✅ Done |
 | Day 13 | Subnetting Part 1 — Class C | ✅ Done |
 | Day 14 | Subnetting Part 2 — Class B & A | ✅ Done |
 | Day 15 | Subnetting Part 3 — VLSM | ✅ Done |
-| Day 16 | VLANs Part 1 | 🔲 Pending |
-| Day 17 | VLANs Part 2 | 🔲 Pending |
-| Day 18 | VLANs Part 3 | 🔲 Pending |
+| Day 16 | VLANs Part 1 | ✅ Done |
+| Day 17 | VLANs Part 2 | ✅ Done |
+| Day 18 | VLANs Part 3 | ✅ Done |
 | Day 19 | DTP & VTP | 🔲 Pending |
 | Day 20 | Spanning Tree Protocol Part 1 | 🔲 Pending |
 
